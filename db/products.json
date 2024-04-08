@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "images": [
+      {
+        "imageUrl": "http://localhss",
+        "publicId": "http://"
+      }
+    ],
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "description": "The iPhone 13 Pro Max is Apple's flagship device, featuring a stunning Super Retina XDR display, a powerful A15 Bionic chip, and an advanced triple-camera system for unparalleled photography and videography",
+    "rating": 4.5,
+    "numReviews": 2,
+    "price": 1295,
+    "countInStock": 10,
+    "isFeautred": true,
+    "reviews": [
+      {
+        "user": 1,
+        "name": "Prashant Magar",
+        "rating": 4.5,
+        "comment": "One Of the best Phone",
+        "avatar": "http://res.cloudinary.com/dyuppnk6r/image/upload/v1707034423/lavruvlh7evdmdkxhmxh.jpg",
+        "_id": "12D",
+        "reply": "Thank you for your feedback"
+      },
+      {
+        "user": 2,
+        "name": "David Goggins",
+        "rating": 4,
+        "comment": "This is a good phone from samsung",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSONO-MiXOE-jdAZjO49IRh7llcoZvJIEwYX7Vx-u24S3Ncf80",
+        "_id": "35D",
+        "reply": "Big Fan David Goggins"
+      }
+    ]
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "images": [
+      {
+        "imageUrl": "http://localhss",
+        "publicId": "http://"
+      }
+    ],
+    "brand": "Apple",
+    "category": "Smartphone",
+    "description": "The iPhone 15 Pro Max is Apple's latest flagship device, featuring an exquisite Super Retina XDR display, an incredibly fast A16 Bionic chip, and an advanced quad-camera system for unparalleled photography and videography.",
+    "rating": 4.8,
+    "numReviews": 5,
+    "price": 1499,
+    "countInStock": 15,
+    "isFeatured": true,
+    "reviews": [
+      {
+        "user": 1,
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing phone!",
+        "avatar": "https://www.example.com/avatar/john_doe.jpg",
+        "_id": "abc123",
+        "reply": "Thank you for your feedback!"
+      },
+      {
+        "user": 2,
+        "name": "Jane Smith",
+        "rating": 4.5,
+        "comment": "Great device, love the camera quality.",
+        "avatar": "https://www.example.com/avatar/jane_smith.jpg",
+        "_id": "def456",
+        "reply": "We're glad you're enjoying it!"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 7",
+    "images": [
+      {
+        "imageUrl": "http://localhss",
+        "publicId": "http://"
+      }
+    ],
+    "brand": "Google",
+    "category": "Smartphone",
+    "description": "The Google Pixel 7 is Google's flagship offering, featuring an impressive 120Hz LTPO OLED display, a powerful Snapdragon 8 Gen 2 chip, and an exceptional camera system for stunning photos and videos.",
+    "rating": 4.6,
+    "numReviews": 3,
+    "price": 1099,
+    "countInStock": 8,
+    "isFeatured": true,
+    "reviews": [
+      {
+        "user": 1,
+        "name": "Michael Johnson",
+        "rating": 4.5,
+        "comment": "The camera performance is outstanding.",
+        "avatar": "https://www.example.com/avatar/michael_johnson.jpg",
+        "_id": "ghi789",
+        "reply": "Glad to hear you're enjoying the camera!"
+      },
+      {
+        "user": 2,
+        "name": "Emily Brown",
+        "rating": 5,
+        "comment": "Best phone I've ever had!",
+        "avatar": "https://www.example.com/avatar/emily_brown.jpg",
+        "_id": "jkl012",
+        "reply": "We appreciate your positive feedback!"
+      }
+    ]
+  }
+]
